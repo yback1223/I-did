@@ -7,7 +7,7 @@
 # 몰입 경험 증빙 자료
 
 PDF
-- 
+- [발표 pdf](https://github.com/yback1223/I-did/blob/master/Inverter.pdf)
 
 ![](img/2022-10-23-16-41-20.png)
 
