@@ -55,3 +55,7 @@ C언어 독학 자료
 Spring 강의
 
 - [김영한님의 Spring](https://github.com/yback1223/TIL/tree/master/spring)
+
+# 42서울 학습 자료
+
+[학습 자료](https://github.com/yback1223/42Inner)
